@@ -1,0 +1,23 @@
+{
+    "token": "", 
+    "prefix": ">",
+	  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",   
+    "ownerID": "",
+    "SpotifyID": "7676c791b7ed48a49d6e3a572f22741f",
+    "SpotifySecret": "9f42b9300acb4acd8229235408eb9a90",
+    "mongourl": "mongodb+srv://cyrusop:suriya1224@cluster0.0kchs.mongodb.net/myFirstDatabase",
+    "embedColor": "#303236",
+     "nodes": [
+    
+    {
+
+      "host": "lavalink-replit.exoneonplays.repl.co",
+      "port": 443,
+      "password": "verysecurepass",
+      "identifier": "DisBotlist Lavalink",
+      "retryDelay": 3000,
+      "secure": true
+      
+    }
+  ]
+}
